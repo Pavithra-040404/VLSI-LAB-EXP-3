@@ -58,7 +58,7 @@ ha ha2(a[1] &b[1],w1,c[2],c[3]);
 
 endmodule
 
-# 4 bit multipler:
+# 4 bit multiplier:
 module ha(a,b,c,s);
 
 input a,b;
